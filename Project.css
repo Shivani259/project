@@ -15,7 +15,7 @@
 	font-size:18px;
 }
 .card1{
-	width:24rem;
+	width:22rem;
 }
 .btn1{
 	background:#ed7218;
@@ -46,6 +46,12 @@
 		font-size:40px;
 		line-height:45px;
 	}
+	.card1{
+		width:20rem;
+	}
+	.card2{
+		margin-bottom:10px;
+	}
 	.margin{
 		margin-top:20px;
 		margin-left:0px;
@@ -60,6 +66,12 @@
 @media only screen and (min-width:640px) and (max-width:768px){
 	.p2{
 		font-size:40px;
+	}
+	.card1{
+		width:20rem;
+	}
+	.card2{
+		margin-bottom:10px;
 	}
 	.margin{
 		margin-top:20px;
@@ -78,6 +90,9 @@
 	}
 	.card1{
 		width:14em;
+	}
+	.card2{
+		margin-bottom:10px;
 	}
 	.p4{
 		font-size:60px;
