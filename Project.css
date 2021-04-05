@@ -51,6 +51,31 @@
 	font-family:arial;
 	font-size:18px;
 }
+.p7{
+	font-size:22px;
+	color:#ed7218;
+	margin:80px 0px 0px 150px;
+}
+.p8{
+	font-size:40px;
+	margin:0px 0px 0px 150px;
+}
+.p9{
+	font-size:22px;
+	margin:10px 0px 0px 150px;
+}
+.p10{
+	font-size:20px;
+	margin:80px 50px 0px 70px;
+}
+.btn2{
+	background:#ed7218;
+	color:white;
+	font-size:20px;
+	width:200px;
+	height:50px;
+	margin:40px 0px 30px 70px;
+}
 @media only screen and (min-width:360px) and (max-width:640px){
 	.p2{
 		font-size:40px;
@@ -76,6 +101,25 @@
 		margin:0px 0px 10px 40px;
 		font-size:20px;
 	}
+	.p7{
+		font-size:24px;
+		margin-left:50px;
+	}
+	.p8{
+		font-size:42px;
+		margin-left:50px;
+	}
+	.p9{
+		font-size:24px;
+		margin-left:50px;
+	}
+	.p10{
+		font-size:20px;
+		margin:80px 0px 0px 40px;
+	}
+	.btn2{
+		margin:40px 0px 30px 40px;
+	}
 }
 @media only screen and (min-width:640px) and (max-width:768px){
 	.p2{
@@ -97,6 +141,22 @@
 	.p5{
 		margin-right:0px;
 	}
+	.p7{
+		font-size:24px;
+	}
+	.p8{
+		font-size:42px;
+	}
+	.p9{
+		font-size:24px;
+	}
+	.p10{
+		font-size:20px;
+		margin:80px 0px 0px 150px;
+	}
+	.btn2{
+		margin:40px 0px 30px 150px;
+	}
 }
 @media only screen and (min-width:768px) and (max-width:1024px){
 	.p2{
@@ -114,5 +174,21 @@
 	.p5{
 		margin-right:100px;
 		font-size:30px;
+	}
+	.p7{
+		font-size:24px;
+	}
+	.p8{
+		font-size:42px;
+	}
+	.p9{
+		font-size:24px;
+	}
+	.p10{
+		font-size:20px;
+		margin:80px 0px 0px 150px;
+	}
+	.btn2{
+		margin:40px 0px 30px 150px;
 	}
 }
