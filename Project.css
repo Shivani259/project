@@ -104,6 +104,15 @@
 	background:#ed7218;
 	height:600px;
 }
+.div2{
+	display:block;
+	position:absolute;
+	background:white;
+	margin-top:100px;
+	margin-left:400px;
+	width:600px;
+	height:400px;
+}
 @media only screen and (min-width:360px) and (max-width:640px){
 	.p2{
 		font-size:40px;
@@ -165,6 +174,10 @@
 	.img3{
 		width:320px;
 	}
+	.div2{
+		width:320px;
+		margin-left:0px;
+	}
 }
 @media only screen and (min-width:640px) and (max-width:768px){
 	.p2{
@@ -205,6 +218,10 @@
 	.img3{
 		width:600px;
 	}
+	.div2{
+		width:320px;
+		margin-left:0px;
+	}
 }
 @media only screen and (min-width:768px) and (max-width:1024px){
 	.p2{
@@ -241,5 +258,8 @@
 	}
 	.img3{
 		width:700px;
+	}
+	.div2{
+		display:none;
 	}
 }
